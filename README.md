@@ -1,6 +1,7 @@
 # How to Learn Modern Aeronautics and Astronautics
 
-A path of self study using books, online resources (sites and courses). 
+**A guide to the adventurer** <br>
+This is a path of self study using books, online resources (sites and courses). <br> 
 The idea is to use the resources of 5 fronts to learn this subject.
 * Engineering Aeronautics and Astronautics
 * PPL General Aviation
@@ -44,150 +45,268 @@ The idea is to use the resources of 5 fronts to learn this subject.
 ## Aeronautics engineering books
 
 ### Starting books
-* The Aircraft Book: The Definitive Visual History (Dk General History) by DK and Philip Whiteman - 320 pag
+* **The Aircraft Book: The Definitive Visual History (Dk General History)** <br>
+  by DK and Philip Whiteman <br>
+  320 pag
 
-* Understanding Flight, Second Edition Paperback by David Anderson, Scott Eberhardt 320 pag
+* **Understanding Flight, 2th Edition** <br>
+  by David Anderson, Scott Eberhardt <br>
+  320 pag
 
-* Introduction to Flight 8th Edition by John Anderson - 928 pag
+* **Introduction to Flight, 8th Edition** <br>
+  by John Anderson <br>
+  928 pag
 
 ### Mechanics of Flight
-* Mechanics of Flight 2nd Edition by Warren F. Phillips -  1152 pág
+* **Mechanics of Flight, 2nd Edition** <br>
+  by Warren F. Phillips <br>
+  1152 pag
 
 ### Aerodynamics
-* Aerodynamics for Engineers 6th Edition by Bertin, Cummings - 832 pag
+* **Aerodynamics for Engineers, 6th Edition** <br>
+  by Bertin, Cummings <br>
+  832 pag
 
-* Fundamentals of aerodynamics 6th Edition by Anderson, John - 1152 pag 
+* **Fundamentals of aerodynamics, 6th Edition** <br>
+  by Anderson, John <br>
+  1152 pag 
 
-* Modern Compressible Flow: With Historical Perspective, 3rd ed -  784 pag
+* **Modern Compressible Flow: With Historical Perspective, 3rd edition** <br>
+  by Anderson, John <br>
+  784 pag
 
 ### Aircraft structures
-* Aircraft Structures (Dover Books on Aeronautical Engineering) by David J. Peery - 576 pag
+* **Aircraft Structures (Dover Books on Aeronautical Engineering)** <br>
+  by David J. Peery <br>
+  576 pag
 
-* Understanding Aircraft Structures by John Cutler, Jeremy Liber - 224 pag
+* **Understanding Aircraft Structures** <br>
+  by John Cutler, Jeremy Liber <br>
+  224 pag
 
-* Analysis and Design of Flight Vehicle Structures by E.F. Bruhn - 650 pag
+* **Analysis and Design of Flight Vehicle Structures** <br>
+  by E.F. Bruhn <br>
+  650 pag
 
-* Airframe Stress Analysis 3th Edition by Michael C. Niu  - 806 pag
+* **Airframe Stress Analysis 3th Edition** <br>
+  by Michael C. Niu <br>
+  806 pag
 
 ### Propulsion
-* Aircraft Propulsion 2th Edition by Farokhi - 1043 pag
+* **Aircraft Propulsion 2th Edition** <br>
+  by Farokhi <br>
+  1043 pag
 
-* Aircraft Powerplants, Ninth Edition by Thomas Wild - 736 pág
+* **Aircraft Powerplants, 9th Edition** <br>
+  by Thomas Wild <br>
+  736 pág
 
-* Jet Engines: Fundamentals of Theory, Design and Operation by Klaus Hunecke - 224 pag
+* **Jet Engines: Fundamentals of Theory, Design and Operation** <br>
+  by Klaus Hunecke <br>
+  224 pag
 
-* The Jet Engine by Rolls Royce - 288 pag
+* **The Jet Engine** <br>
+  by Rolls Royce <br>
+  288 pag
 
-* Gas Turbine Engineering Handbook by Meherwan P. Boyce  - 1000 pag
+* **Gas Turbine Engineering Handbook** <br>
+  by Meherwan P. Boyce <br>
+  1000 pag
 
 ### Aircraft design
-* Aircraft Design: A Conceptual Approach (Aiaa Education) 6th Edition by Daniel P. Raymer - 1062 pag
+* **Aircraft Design: A Conceptual Approach (Aiaa Education) 6th Edition** <br>
+   by Daniel P. Raymer <br>
+   1062 pag
 
-* General Aviation Aircraft Design: Applied Methods and Procedures by Gudmundsson - 1048 pag
+* **General Aviation Aircraft Design: Applied Methods and Procedures** <br>
+  by Gudmundsson <br>
+  1048 pag
 
 ### Electric and electronic systems
-* Aircraft Electricity and Electronics, Seventh Edition by Thomas Eismin - 640 pag
+* **Aircraft Electricity and Electronics, 7th Edition** <br>
+  by Thomas Eismin <br>
+  640 pag
 
 ### Avionics
-* Digital Avionics Handbook, Third Edition by Cary Spitzer, Uma Ferrell, Thomas Ferrell - 848 pag
+* **Digital Avionics Handbook, 3rd Edition** <br>
+  by Cary Spitzer, Uma Ferrell, Thomas Ferrell <br>
+  848 pag
 
 ### Radar
-* Principles of Modern Radar: Basic Principles v. 1 by Mark A. Richards, William A. Holm, James A. Scheer - 960 pag
+* **Principles of Modern Radar: Basic Principles Volume 1** <br>
+  by Mark A. Richards, William A. Holm, James A. Scheer <br>
+  960 pag
 
-* Principles of Modern Radar: Advanced Radar Techniques and Applications v. 2 by William L. Melvin, James A. Scheer - 960 pag
+* **Principles of Modern Radar: Advanced Radar Techniques and Applications Volume 2** <br>
+  by William L. Melvin, James A. Scheer <br>
+  960 pag
 
-* Principles of Modern Radar: 3 by William L. Melvin, James A. Scheer - 816 pag
+* **Principles of Modern Radar: Volume 3** <br>
+  by William L. Melvin, James A. Scheer <br>
+  816 pag
 
 ### Composite materials
-* Composite Material Fabrication Handbook #1 (Composite Garage Series) 2009 by John Wanberg - 144 pag
+* **Composite Material Fabrication Handbook #1 (Composite Garage Series)** <br>
+  by John Wanberg <br>
+  144 pag
 
-* Composite Materials: Fabrication Handbook #2 (Composite Garage Series) – 2010 by John Wanberg - 144 pag
+* **Composite Materials: Fabrication Handbook #2 (Composite Garage Series)** <br>
+  by John Wanberg <br>
+  144 pag
 
-* Composite Materials: Fabrication Handbook #3 (Composite Garage Series) 2012 by John Wanberg - 144 pag
+* **Composite Materials: Fabrication Handbook #3 (Composite Garage Series)** <br>
+  by John Wanberg <br>
+  144 pag
 
-* Fundamentals of Composites Manufacturing: Materials, Methods and Applications 2ed by A. Brent Strong - 640 pag
+* **Fundamentals of Composites Manufacturing: Materials, Methods and Applications 2ed** <br>
+  by A. Brent Strong <br>
+  640 pag
 
 ### CFD - Computational Fluid Dynamics
-* Computational Fluid Dynamics by John Anderson - 574 pag 
+* **Computational Fluid Dynamics** <br>
+  by John Anderson <br>
+  574 pag 
 
-* Computational Fluid Dynamics: from zero to guru by Alexander Yun - 594 pag
+* **Computational Fluid Dynamics: From zero to guru** <br>
+  by Alexander Yun <br>
+  594 pag
 
-* An Introduction to Computational Fluid Dynamics: The Finite Volume Method by Versteeg - 520 pag
+* **An Introduction to Computational Fluid Dynamics: The Finite Volume Method** <br>
+  by Versteeg <br>
+  520 pag
 
-* Essential Computational Fluid Dynamics 2st Edition by Oleg Zikanov - 384 pag
+* **Essential Computational Fluid Dynamics 2st Edition** <br>
+  by Oleg Zikanov <br>
+  384 pag
 
 
 ## Astronautics engineering books
 
 ### Space dynamics
-* Fundamentals of Astrodynamics (Dover Books on Aeronautical Engineering) by  Roger R. Bate , Donald D. Mueller - 480 pag
+* **Fundamentals of Astrodynamics (Dover Books on Aeronautical Engineering)** <br>
+  by  Roger R. Bate , Donald D. Mueller <br>
+  480 pag
 
 ### Propulsion
-* Rocket Propulsion Elements 9th Edition by George P. Sutton - 792 pag
+* **Rocket Propulsion Elements 9th Edition** <br>
+  by George P. Sutton <br>
+  792 pag
 
 ## PPL Private Pilot License books
 
-* Physics and Maths for the PPL by Burnay, Luis - 144 pag
+* **Physics and Maths for the PPL** <br>
+  by Burnay, Luis <br>
+  144 pag
 
-* PBS Illustrated Guide to Aerodynamics 2/E by Smith, Hubert - 352 pag
+* **PBS Illustrated Guide to Aerodynamics 2/E** <br>
+  by Smith, Hubert <br>
+  352 pag
 
-* Air Pilot's Manual - Flying Training (Air Pilots Manual 01) by Saul-Pooley, Dorothy,Law, Esther - 410 pag
+* **Air Pilot's Manual - Flying Training: Volume 1** <br>
+  by Saul-Pooley, Dorothy,Law, Esther <br>
+  410 pag
 
-* Air Pilot's Manual: Air Law & Meteorology: Volume 2 (Air Pilots Manual 02) by Dorothy Saul-Pooley - 408 pag
+* **Air Pilot's Manual: Air Law & Meteorology: Volume 2** <br>
+  by Dorothy Saul-Pooley <br>
+  408 pag
 
-* Air Pilot's Manual - Navigation: Volume 3 by Dorothy Saul-Pooley - 410 pag
+* **Air Pilot's Manual - Navigation: Volume 3** <br>
+  by Dorothy Saul-Pooley <br>
+  410 pag
 
-* Air Pilot's Manual - Aeroplane Technical - Principles of Flight, Aircraft General, Flight Planning & Performance: Volume 4 (Air Pilots Manual 04)
-by Dorothy Saul-Pooley, Philip Baxter (Author), Gill Daljeet - 468 pag
+* **Air Pilot's Manual - Aeroplane Technical - Principles of Flight, Aircraft General, Flight Planning & Performance: Volume 4** <br>
+  by Dorothy Saul-Pooley, Philip Baxter (Author), Gill Daljeet <br>
+  468 pag
 
-* Air Pilot's Manual - Radio Navigation and Instrument Flying: Volume 5 (Air Pilots Manual 05) by Jonathan Shooter - 570 pag
+* **Air Pilot's Manual - Radio Navigation and Instrument Flying: Volume 5** <br>
+  by Jonathan Shooter <br>
+  570 pag
 
-* Air Pilot's Manual - Human Performance & Limitations and Operational Procedures: Volume 6 (The Air Pilot's Manual) by Dorothy Saul-Pooley - 400 pag
+* **Air Pilot's Manual - Human Performance & Limitations and Operational Procedures: Volume 6** <br>
+  by Dorothy Saul-Pooley <br>
+  400 pag
 
-* Air Pilot's Manual - Communications: Volume 7 by Helena Hughes - 260 pag
+* **Air Pilot's Manual - Communications: Volume 7** <br>
+  by Helena Hughes <br>
+  260 pag
 
 ## Sailplane / Glider Books
-* The Cloud Book: How to Understand the Skies by Richard Hamblyn - 160 pag
+* **The Cloud Book: How to Understand the Skies** <br>
+  by Richard Hamblyn <br>
+  160 pag
 
-* Beginning Gliding (Flying and Gliding) by Derek Piggott - 224 pag
+* **Beginning Gliding (Flying and Gliding)** <br>
+  by Derek Piggott <br>
+  224 pag
 
-* Understanding Gliding: The Principles of Soaring Flight (Flying and Gliding) - 256 pag
+* **Understanding Gliding: The Principles of Soaring Flight (Flying and Gliding)** <br>
+  by Derek Piggott <br>
+  256 pag
 
-* Understanding Flying Weather by Derek Piggott - 96 pag
+* **Understanding Flying Weather** <br>
+  by Derek Piggott <br>
+  96 pag
 
-* The Soaring Pilot's Manual: Second Edition Stewart, Ken - 374 pag 
+* **The Soaring Pilot's Manual: 2th Edition** <br>
+  by Stewart, Ken <br>
+  374 pag 
 
-* Federal Aviation Administration Glider Flying Handbook: FAA Handbooks Series - 266 pag
+* **Federal Aviation Administration Glider Flying Handbook: FAA Handbooks Series** <br>
+  266 pag
 
 ## Aeromodelism books (from designing -> to building -> to flying)
 
-* Gliding with Radio Control (Beginner's Guide to Building and Flying Model Sailplanes) by Martin Simons - 128 pag
+* **Gliding with Radio Control (Beginner's Guide to Building and Flying Model Sailplanes)** <br>
+  by Martin Simons <br>
+  128 pag
 
-* RC Ground School: The Beginners' Guide to Flying Electric RC Airplanes by Mohan, Jim - 152 pag 
+* **RC Ground School: The Beginners' Guide to Flying Electric RC Airplanes** <br>
+  by Mohan, Jim <br>
+  152 pag 
 
-* Aircraft Workshop: Learn to Make Models That Fly by Shacklock, Kelvin 264 pag
+* **Aircraft Workshop: Learn to Make Models That Fly** <br>
+  by Shacklock, Kelvin <br>
+  264 pag
 
-* Basics of Model Aircraft Design by Andy Lennon  120 pag
+* **Basics of Model Aircraft Design** <br>
+  by Andy Lennon <br>
+  120 pag
 
-* Model Aircraft Aerodynamics by Simons, Martin - 270 pag
+* **Model Aircraft Aerodynamics** <br>
+  by Simons, Martin <br>
+  270 pag
 
-* Aerodynamic Design of Radioguided Sailplanes by Dr. Ing. Ferdinando Gale - 312 pag <br>
+* **Aerodynamic Design of Radio guided Sailplanes** <br>
+  by Dr. Ing. Ferdinando Gale <br>
+  312 pag <br>
   [b2streamlines.com](https://b2streamlines.com/books/booktitles.html)
 
-* Structural Dimensioning of Radioguided Aeromodels by Dr. Ing. Ferdinando Galè - 114 pag <br>
+* **Structural Dimensioning of Radio guided Aeromodels** <br>
+  by Dr. Ing. Ferdinando Galè <br>
+  114 pag <br>
   [b2streamlines.com](https://b2streamlines.com/books/booktitles.html)
 
-* Radio Control Foam Modelling by Thomas, David - 190 pag
+* **Radio Control Foam Modelling** <br>
+  by Thomas, David <br>
+  190 pag
 
-* Rubber Powered Model Airplanes: Comprehensive Building & Flying Basics, Plus Advanced Design-Your-Own Instruction: Comprehensive Building and Flying ... Instructions: Volume 1 by Don Ross - 168 pag 
+* **Rubber Powered Model Airplanes: Comprehensive Building & Flying Basics, Plus Advanced Design-Your-Own Instruction: Comprehensive Building and Flying ... Instructions: Volume 1** <br>
+  by Don Ross <br>
+  168 pag 
 
-* Flying Models: Rubber, CO2, Electric & Micro Radio Control: Tips & Techinques for Beginner & Expert: Volume 2 by Don Ross - 240 pag
+* **Flying Models: Rubber, CO2, Electric & Micro Radio Control: Tips & Techinques for Beginner & Expert: Volume 2** <br>
+  by Don Ross <br>
+  240 pag
 
-* Scale Model Gliders (The modeller's world series) - 162 pag
+* **Scale Model Gliders (The modeller's world series)** <br>
+  162 pag
 
-* Gas Turbine Engines for Model Aircraft by Kurt Schreckling - 104 pag
+* **Gas Turbine Engines for Model Aircraft** <br>
+  by Kurt Schreckling <br>
+  104 pag
 
-* AEROMODELISMO by José Carlos Rodrigues <br>
+* **Aeromodelismo** <br>
+  by José Carlos Rodrigues <br>
   [Free book for private use](http://www.clubeaerolisboa.pt/livro.htm)
 
 ## Online Courses
