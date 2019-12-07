@@ -141,7 +141,7 @@ The idea is to use the resources of 5 fronts to learn this subject.
   by William L. Melvin, James A. Scheer <br>
   960 pag
 
-* **Principles of Modern Radar: Volume 3** <br>
+* **Principles of Modern Radar: Radar Applications Volume 3** <br>
   by William L. Melvin, James A. Scheer <br>
   816 pag
 
