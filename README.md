@@ -35,11 +35,11 @@ The idea is to use the resources of 5 fronts to learn this subject.
    1. Real planes Simulators
    2. RC Flight simulators
 9. Youtube videos
-  1. Flight simulator videos
-  2. RC Flight simulator videos
-  3. Having fun videos
-  4. Having fun videos with gliders
-  5. Building videos
+   1. Flight simulator videos
+   2. RC Flight simulator videos
+   3. Having fun videos
+   4. Having fun videos with gliders
+   5. Building videos
 10. Disclaimer
 11. Have fun!
 
