@@ -38,7 +38,8 @@ The idea is to use the resources of 5 fronts to learn this subject.
   1. Flight simulator videos
   2. RC Flight simulator videos
   3. Having fun videos
-  4. Building videos
+  4. Having fun videos with gliders
+  5. Building videos
 10. Disclaimer
 11. Have fun!
 
@@ -343,6 +344,11 @@ The idea is to use the resources of 5 fronts to learn this subject.
   [DIY Beginner RC Plane - FT Simple Cub](https://www.youtube.com/watch?v=DMC1UdZNDgk)
 * Video de people having a lot of fun racing big and light WWII RC aeromodels with camera.
   [Epic Warbird Air Race! | Giant DIY P-38 Lightnings](https://www.youtube.com/watch?v=DntBjIOZzZk)
+
+### Having fun videos with gliders
+* Video of people having lots of fun with gliders/sailplanes in APSIA - St. Iria da Azóia - Lisbon - Portugal. <br>
+  [APSIA - Gliding after a day of work](https://www.youtube.com/watch?v=SByaL_-WXgA) <br>
+  [APSIA - Glider scales 2016](https://www.youtube.com/watch?v=udBydXW2_j0) <br>
 
 ### Building videos
 * [How to Build an RC Plane from a Pizza Box - FT Slice - BUILD](https://www.youtube.com/watch?v=XTzgvpxa0Y4)
