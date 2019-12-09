@@ -28,6 +28,7 @@ The idea is to use the resources of 5 fronts to learn this subject.
   - [Astronautics engineering books](#astronautics-engineering-books)
     - [Space dynamics](#space-dynamics)
     - [Propulsion](#propulsion-1)
+    - [Satellite systems](#satellite-systems)
   - [PPL Private Pilot License books](#ppl-private-pilot-license-books)
   - [Sailplane / Glider Books](#sailplane--glider-books)
   - [Aeromodelism books (from designing - to building - to flying)](#aeromodelism-books-from-designing---to-building---to-flying)
@@ -194,6 +195,12 @@ The idea is to use the resources of 5 fronts to learn this subject.
 * **Rocket Propulsion Elements 9th Edition** <br>
   by George P. Sutton <br>
   792 pag
+
+### Satellite systems
+* **Space Mission Engineering: The New SMAD** <br>
+  by James R. Wertz, David F. Everett, Jeffery J. Puschell <br>
+  1048 pag
+
 
 ## PPL Private Pilot License books
 
