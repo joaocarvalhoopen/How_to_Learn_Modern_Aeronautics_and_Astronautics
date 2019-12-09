@@ -11,37 +11,39 @@ The idea is to use the resources of 5 fronts to learn this subject.
 
 ## Index
 
-1. Aeronautics engineering books
-   1. Starting books
-   2. Mechanics of Flight
-   3. Aerodynamics
-   4. Aircraft structures
-   5. Propulsion
-   6. Aircraft design
-   7. Electric and electronic systems
-   8. Avionics
-   9. Radar
-   10. Composite materials
-   11. CFD - Computational Fluid Dynamics
-2. Astronautics engineering books
-   1. Space dynamics
-   2. Propulsion
-3. PPL Private Pilot License books
-4. Sailplane / Glider Books
-5. Aeromodelism books (from designing -> to building -> to flying)
-6. Online Courses
-7. Links
-8. Flight simulators
-   1. Real planes Simulators
-   2. RC Flight simulators
-9. Youtube videos
-   1. Flight simulator videos
-   2. RC Flight simulator videos
-   3. Having fun videos
-   4. Having fun videos with gliders
-   5. Building videos
-10. Disclaimer
-11. Have fun!
+- [How to Learn Modern Aeronautics and Astronautics](#how-to-learn-modern-aeronautics-and-astronautics)
+  - [Index](#index)
+  - [Aeronautics engineering books](#aeronautics-engineering-books)
+    - [Starting books](#starting-books)
+    - [Mechanics of Flight](#mechanics-of-flight)
+    - [Aerodynamics](#aerodynamics)
+    - [Aircraft structures](#aircraft-structures)
+    - [Propulsion](#propulsion)
+    - [Aircraft design](#aircraft-design)
+    - [Electric and electronic systems](#electric-and-electronic-systems)
+    - [Avionics](#avionics)
+    - [Radar](#radar)
+    - [Composite materials](#composite-materials)
+    - [CFD - Computational Fluid Dynamics](#cfd---computational-fluid-dynamics)
+  - [Astronautics engineering books](#astronautics-engineering-books)
+    - [Space dynamics](#space-dynamics)
+    - [Propulsion](#propulsion-1)
+  - [PPL Private Pilot License books](#ppl-private-pilot-license-books)
+  - [Sailplane / Glider Books](#sailplane--glider-books)
+  - [Aeromodelism books (from designing -&gt; to building -&gt; to flying)](#aeromodelism-books-from-designing--gt-to-building--gt-to-flying)
+  - [Online Courses](#online-courses)
+  - [Links](#links)
+  - [Flight simulators](#flight-simulators)
+    - [Real planes simulators](#real-planes-simulators)
+    - [RC Flight simulators](#rc-flight-simulators)
+  - [Youtube videos](#youtube-videos)
+    - [Flight simulator videos](#flight-simulator-videos)
+    - [RC Flight simulator videos](#rc-flight-simulator-videos)
+    - [Having fun videos](#having-fun-videos)
+    - [Having fun videos with gliders](#having-fun-videos-with-gliders)
+    - [Building videos](#building-videos)
+  - [Disclaimer](#disclaimer)
+  - [Have fun!](#have-fun)
 
 ## Aeronautics engineering books
 
