@@ -370,7 +370,8 @@ The idea is to use the resources of 5 fronts to learn this subject.
   [$5 Trainer Build Techniques - Isolation foam](https://www.youtube.com/watch?v=aV5hILJe20U)
 
 * A Video of an incredible gentlemen making a Turbo Jet engine from scrap metal and car motor turbo parts in is garage. In the end he also makes a full airplane and shows it flying. Appreciate it! Put subtitle on, it's well worth it. <br>
-   [From the construction of a Turbo Jet engine to the making of an airplane and flight](https://www.youtube.com/watch?v=dYFYZ-g7fzA)
+   [From the construction of a Turbo Jet engine to the making of an airplane and flight](https://www.youtube.com/watch?v=dYFYZ-g7fzA) <br>
+   [An explanation, take a part and comparison video of the smallest Turbo Jet engines](https://www.youtube.com/watch?v=aIBtZZOZ_54) 
 
 ## Disclaimer
 I'm an engineer but I'm not a Aeronautics and Astronautics engineer! I'm only doing this learning path on my own and have I a real drive and passion to learn it. I share with others the previous information because it is the information that I have found more useful and in same places that I haven't already reed it, I used the best reviews after reading several comments and what look to me to be the best sources. Has I go on this path of reading all those books I will update this repository with my findings. I'm doing it for the pleasure of knowing more about this subject (it can take 4 to 5 years :-D ). 
