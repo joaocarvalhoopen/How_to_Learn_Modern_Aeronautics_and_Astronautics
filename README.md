@@ -30,7 +30,7 @@ The idea is to use the resources of 5 fronts to learn this subject.
     - [Propulsion](#propulsion-1)
   - [PPL Private Pilot License books](#ppl-private-pilot-license-books)
   - [Sailplane / Glider Books](#sailplane--glider-books)
-  - [Aeromodelism books (from designing -&gt; to building -&gt; to flying)](#aeromodelism-books-from-designing--gt-to-building--gt-to-flying)
+  - [Aeromodelism books (from designing - to building - to flying)](#aeromodelism-books-from-designing---to-building---to-flying)
   - [Online Courses](#online-courses)
   - [Links](#links)
   - [Flight simulators](#flight-simulators)
@@ -257,7 +257,7 @@ The idea is to use the resources of 5 fronts to learn this subject.
 * **Federal Aviation Administration Glider Flying Handbook: FAA Handbooks Series** <br>
   266 pag
 
-## Aeromodelism books (from designing -> to building -> to flying)
+## Aeromodelism books (from designing - to building - to flying)
 
 * **Gliding with Radio Control (Beginner's Guide to Building and Flying Model Sailplanes)** <br>
   by Martin Simons <br>
