@@ -191,6 +191,10 @@ The idea is to use the resources of 5 fronts to learn this subject.
   by  Roger R. Bate , Donald D. Mueller <br>
   480 pag
 
+* **Orbital Mechanics for Engineering Students 4th Edition** <br>
+  by Howard D. Curtis <br>
+  784 pag
+
 ### Propulsion
 * **Rocket Propulsion Elements 9th Edition** <br>
   by George P. Sutton <br>
@@ -239,6 +243,11 @@ The idea is to use the resources of 5 fronts to learn this subject.
 * **Air Pilot's Manual - Communications: Volume 7** <br>
   by Helena Hughes <br>
   260 pag
+
+* **Better Aerobatics** <br>
+  by Alan Charles Cassidy <br>
+  458 pag
+
 
 ## Sailplane / Glider Books
 * **The Cloud Book: How to Understand the Skies** <br>
