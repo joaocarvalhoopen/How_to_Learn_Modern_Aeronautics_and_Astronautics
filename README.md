@@ -358,9 +358,9 @@ The idea is to use the resources of 5 fronts to learn this subject.
 * [Reflex XTR Flight Simulator Trial Version Features](https://www.youtube.com/watch?v=mMI3GGjABS8)
 
 ### Having fun videos
-* Video de people having a lot of fun flying RC aeromodels.
+* Video de people having a lot of fun flying RC aeromodels. <br>
   [DIY Beginner RC Plane - FT Simple Cub](https://www.youtube.com/watch?v=DMC1UdZNDgk)
-* Video de people having a lot of fun racing big and light WWII RC aeromodels with camera.
+* Video de people having a lot of fun racing big and light WWII RC aeromodels with camera. <br>
   [Epic Warbird Air Race! | Giant DIY P-38 Lightnings](https://www.youtube.com/watch?v=DntBjIOZzZk)
 
 ### Having fun videos with gliders
