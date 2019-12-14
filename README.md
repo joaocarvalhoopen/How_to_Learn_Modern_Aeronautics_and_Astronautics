@@ -75,9 +75,13 @@ The idea is to use the resources of 5 fronts to learn this subject.
   by Anderson, John <br>
   1152 pag 
 
-* **Modern Compressible Flow: With Historical Perspective, 3rd edition** <br>
+* **Modern Compressible Flow: With Historical Perspective, 3rd Edition** <br>
   by Anderson, John <br>
   784 pag
+
+* **Hypersonic and High-Temperature Gas Dynamics, 3rd Edition** <br>
+  by Anderson, John <br>
+  869 pag
 
 ### Aircraft structures
 * **Aircraft Structures (Dover Books on Aeronautical Engineering)** <br>
