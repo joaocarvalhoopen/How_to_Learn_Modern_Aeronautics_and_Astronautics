@@ -38,6 +38,7 @@ The idea is to use the resources of 5 fronts to learn this subject.
     - [Real planes simulators](#real-planes-simulators)
     - [RC Flight simulators](#rc-flight-simulators)
   - [Youtube videos](#youtube-videos)
+    - [Understanding flight videos](#understanding-flight-videos)
     - [Flight simulator videos](#flight-simulator-videos)
     - [RC Flight simulator videos](#rc-flight-simulator-videos)
     - [Having fun videos](#having-fun-videos)
@@ -55,7 +56,8 @@ The idea is to use the resources of 5 fronts to learn this subject.
 
 * **Understanding Flight, 2th Edition** <br>
   by David Anderson, Scott Eberhardt <br>
-  320 pag
+  320 pag <br>
+  [Understanding flight - Lecture by Professor David Anderson](https://www.youtube.com/watch?v=nQsipnvo1k4)
 
 * **Introduction to Flight, 8th Edition** <br>
   by John Anderson <br>
@@ -353,6 +355,11 @@ The idea is to use the resources of 5 fronts to learn this subject.
 * [Reflex - XTR2](https://www.reflex-sim.net/)
 
 ## Youtube videos
+
+### Understanding flight videos
+* [Understanding flight - Lecture by Professor David Anderson](https://www.youtube.com/watch?v=nQsipnvo1k4)
+* [Understanding flight 2](https://www.youtube.com/channel/UCDC3LW0KpdKPoXfDH0cl6uw)
+* [Flight of the Future - Science Fiction or Reality](https://www.youtube.com/watch?v=qn2x62G5GmM)
 
 ### Flight simulator videos
 * [Microsoft Flight Simulator - Announce Trailer](https://www.youtube.com/watch?v=ReDDgFfWlS4)
