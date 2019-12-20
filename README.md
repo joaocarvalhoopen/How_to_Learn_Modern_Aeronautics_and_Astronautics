@@ -336,6 +336,9 @@ The idea is to use the resources of 5 fronts to learn this subject.
 
 ## Online Courses
 * [MIT Open Courseware - Aeronautics and Astronautics](https://ocw.mit.edu/courses/aeronautics-and-astronautics/)
+* [AeroPython - Classical Aerodynamics with Python - Lorena A. Barba](https://github.com/barbagroup/AeroPython)
+* [CFD Python - a.k.a. the 12 steps to Navier-Stokes - Lorena A. Barba](https://github.com/barbagroup/CFDPython) 
+* [ME 702 - CFD - Lorena A. Barba](https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61)
 
 ## Links
 * [APSIA - Associação de Planadores de Santa Iria de Azoia |Sailpanlnes or gliders|](https://apsia.pt/)
