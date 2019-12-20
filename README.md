@@ -347,6 +347,7 @@ The idea is to use the resources of 5 fronts to learn this subject.
 * [Repository library of RC books that are not published anymore](https://rclibrary.co.uk/)
 * [Indoor News and Views - Repository of all information on indoor flight from back in the days to present](https://indoornewsandviews.com/)
 * [B2Stremline.com - Shop of advanced books on RC sailplanes](https://b2streamlines.com/books/booktitles.html)
+* [Genetic algorithms applied in Computer Fluid Dynamics for multiobjective optimization](https://github.com/jlobatop/GA-CFD-MO)
 
 ## Flight simulators
 
